@@ -117,7 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             borderRadius: BorderRadius.circular(5)),
                         margin: const EdgeInsets.only(right: 15),
                         child: Image.asset("assets/icons/settings-sliders.png",
-                            height: 25, width: 25),
+                            height: 22, width: 22),
                       ),
                     ),
                   ),
